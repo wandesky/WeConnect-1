@@ -47,7 +47,7 @@ In order to run the API Application
     - Run this command in git bash to create the repo locally
     `git clone https://github.com/tibetegya/WeConnect.git`
 
-2. Create a virtual environment inside api-appliction folder using in a terminal shell  `virtualenv  ENV`
+2. Create a virtual environment inside api-appliction folder using the shell command `pip install virtualenv` followed by  `virtualenv  ENV`. 
 
 3. Activate the virtual environment but running the following command `env\scripts\activate`
 
